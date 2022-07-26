@@ -13,3 +13,31 @@ font-family: 'Roboto', sans-serif;
 .header {
   background: #fff9f4;
 }
+
+.heading {
+  font-family: "Bebas Neue", cursive;
+  word-spacing: 2px;
+}
+
+.medium-margin-bottom {
+  margin-bottom: 50px;
+}
+
+.large-margin-bottom {
+  margin-bottom: 130px;
+}
+
+.hero-heading-color {
+  color: #fa804c;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
+
+.buy-now-button {
+  background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
