@@ -5,3 +5,11 @@ font-family: 'Bebas Neue', cursive;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Roboto', sans-serif;
 */
+
+.body {
+  background: #e5e5e5;
+}
+
+.header {
+  background: #fff9f4;
+}
