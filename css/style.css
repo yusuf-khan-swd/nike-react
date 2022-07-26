@@ -47,7 +47,7 @@ font-family: 'Roboto', sans-serif;
 
 /* Casual shoes section  */
 .card-image {
-  /* margin: 20px; */
+  margin: 20px;
   background: #e5e5e5;
   border-radius: 15px;
 }
