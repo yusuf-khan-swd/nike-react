@@ -13,10 +13,13 @@ font-family: 'Roboto', sans-serif;
 
 .header {
   background: #fff9f4;
+  padding: 20px;
 }
 
 .heading {
   font-family: "Bebas Neue", cursive;
+  font-size: 80px;
+  letter-spacing: 3px;
   word-spacing: 2px;
 }
 
